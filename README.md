@@ -1,5 +1,11 @@
 # M5-PROG-E.H
 
+## Lesson 2: 
+## Ging best prima, en ik wou even de bonus opdracht doen omdat dit te laat is. Ik heb gebruik van Prefab Variants gemaakt omdat er iets niet helemaal goed ging met simpel ctrl+D op de Prefabs
+
+## GIF:
+![2Showcase](/GIFs/2.ActionEventShowcase.gif)
+
 ## Lesson 1: 
 ## Ging niet zo snel als ik wou, had veel problemen, maar was niet uitzonderlijk moeilijk. Ik was het wel vergeten om allemaal online te zetten op tijd.. Whoops
 
