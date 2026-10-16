@@ -1,0 +1,5 @@
+C:\Users\femke\Documents\School\. M5\PROG - Erwin\obj\Debug\net10.0\PROG - Erwin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\femke\Documents\School\. M5\PROG - Erwin\obj\Debug\net10.0\PROG - Erwin.AssemblyInfoInputs.cache
+C:\Users\femke\Documents\School\. M5\PROG - Erwin\obj\Debug\net10.0\PROG - Erwin.AssemblyInfo.cs
+C:\Users\femke\Documents\School\. M5\PROG - Erwin\obj\Debug\net10.0\PROG - Erwin.csproj.CoreCompileInputs.cache
+C:\Users\femke\Documents\School\. M5\PROG - Erwin\obj\Debug\net10.0\PROG - Erwin.sourcelink.json
