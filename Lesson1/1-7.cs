@@ -5,7 +5,7 @@
 // {
 //     static void Main()
 //     {
-//         int[] numbers = { 41, 5436, 234678, 9654, 3420447};
+//         int[] numbers = { 8, 16, 32, 40, 48};
 //         int max = numbers[0];
 
 //         for (int i = 1; i < numbers.Length; i++)
