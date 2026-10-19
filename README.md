@@ -1,5 +1,14 @@
 # M5-PROG-E.H
 
+## Lesson 3:
+## Ik zal proberen om te herinneren om te recorden voor de Towerdefense. In spirit van deze opdracht, mijn probleem met opdracht 2 was dat de punten niet correct overgingen naar het UI; het zei allemaal 50p terwijl ik ook 100p en 200p objecten had. Uiteindelijk was het op te lossen door Prefab Variants, en een paar kleine aanpassing in mijn Pickup script. 
+
+## 3a:
+## Helaas wou het debugging niet werken, as of 19/10, dus daar moet ik verder mee.
+[TowerDefenseRepo-Issues](https://github.com/QO-O/M5BO-TowerDefense/issues)
+
+
+
 ## Lesson 2: 
 ## Ging best prima, en ik wou even de bonus opdracht doen omdat dit te laat is. Ik heb gebruik van Prefab Variants gemaakt omdat er iets niet helemaal goed ging met simpel ctrl+D op de Prefabs
 
