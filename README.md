@@ -1,12 +1,54 @@
 # M5-PROG-E.H
 
+## Lesson 6: Encapsulation - Dependency List 
+
+## WaveData (read by WaveManager)
+### Duration   float | read-only
+### EasySpawnInterval | float | read-only
+### HardSpawnInterval | float | read-only
+### EasyEnemies | int | read-only
+### HardEnemies | int | read-only
+
+## SpawnRoute (read by WaveManager)
+### SpawnPoint | Transform | read-only
+### Waypoints | Transform[] | read-only
+
+## Enemy (written by WaveManager)
+### Waypoints | Transform[] | write-only (set via SetRoute method)
+
+## CurrencyManager (read by Enemy, UI)
+### Instance   CurrencyManager | read-only (static)
+### Gold | int | read-only
+
+## WaveManager (read by WinChecker / debug UI)
+### CurrentWaveIndex | int | read-only
+### TotalWaves | int | read-only
+### WaveRunning | bool | read-only
+
+## TowerSelectionUI (read & written by TowerPlacer)
+### SelectedTowerPrefab | GameObject | read-write
+
+## HomeBase (read by UI / written by Enemy)
+### Instance   HomeBase | read-only (static)
+### Health | float | read-only
+### MaxHealth | float | read-only
+
+## TowerPlacer (called by Tower)
+### Instance | TowerPlacer | read-only (static)
+
+## Scripts with no variable dependencies
+### Tower, Projectile, and GhostTower expose no variables to other scripts. Cross-script communication happens exclusively through public methods.
+
+## Lesson 4:
+### Code is in this repository under "04 - SRP"
+![4Showcase](/GIFs/4.DRYSRP.gif)
+
 ## Lesson 3:
-## Ik zal proberen om te herinneren om te recorden voor de Towerdefense. In spirit van deze opdracht, mijn probleem met opdracht 2 was dat de punten niet correct overgingen naar het UI; het zei allemaal 50p terwijl ik ook 100p en 200p objecten had. Uiteindelijk was het op te lossen door Prefab Variants, en een paar kleine aanpassing in mijn Pickup script. 
 
 ## 3a:
 ## Helaas wou het debugging niet werken, as of 19/10, dus daar moet ik verder mee.
+## 3b:
 [TowerDefenseRepo-Issues](https://github.com/QO-O/M5BO-TowerDefense/issues)
-
 
 
 ## Lesson 2: 
