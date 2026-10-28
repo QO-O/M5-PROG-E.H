@@ -46,7 +46,7 @@
 ## Lesson 3:
 
 ## 3a:
-## Helaas wou het debugging niet werken, as of 19/10, dus daar moet ik verder mee.
+## Helaas is het debuggen niet mogelijk. Jesse kan dit bevestigen; het lukt gewoon niet.
 ## 3b:
 [TowerDefenseRepo-Issues](https://github.com/QO-O/M5BO-TowerDefense/issues)
 
