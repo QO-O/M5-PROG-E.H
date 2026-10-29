@@ -39,6 +39,10 @@
 ## Scripts with no variable dependencies
 ### Tower, Projectile, and GhostTower expose no variables to other scripts. Cross-script communication happens exclusively through public methods.
 
+## Lesson 5:
+### Code is in this repository under "05 - 05 - InheritanceAssignment"
+![5Showcase](/GIFs/5.Inheritance.gif)
+
 ## Lesson 4:
 ### Code is in this repository under "04 - SRP"
 ![4Showcase](/GIFs/4.DRYSRP.gif)
